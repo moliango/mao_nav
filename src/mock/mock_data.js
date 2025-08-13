@@ -250,25 +250,11 @@ export const mockData = {
       "order": 5,
       "sites": [
         {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
           "id": "linuxdo",
           "name": "Linux.do",
           "url": "https://linux.do",
           "description": "Linux与开源技术社区",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
         },
         {
           "id": "v2ex",
@@ -283,6 +269,48 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1755075492731",
+          "name": "恩山论坛",
+          "url": "https://www.right.com.cn/forum/",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755075484662_0e420b52b1094f4288fe3734de7e6298.png"
+        },
+        {
+          "id": "site-1755075410388",
+          "name": "远景论坛",
+          "url": "https://bbs.pcbeta.com/",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755075380080_7a87db4a06bd2d45672064bcad7617b4.png"
+        },
+        {
+          "id": "stackoverflow",
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "程序员问答社区",
+          "icon": "/sitelogo/stackoverflow.com.ico"
+        },
+        {
+          "id": "nodeseek",
+          "name": "NodeSeek",
+          "url": "https://www.nodeseek.com",
+          "description": "极客技术社区",
+          "icon": "/sitelogo/www.nodeseek.com.ico"
+        },
+        {
+          "id": "site-1755075583782",
+          "name": "瀚思彼岸",
+          "url": "https://bbs.hassbian.com",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755075582060_18613933156567433403e26f81ff934d.ico"
+        },
+        {
+          "id": "site-1755075712840",
+          "name": "比特蜂巢",
+          "url": "https://pting.club/",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755075673344_958dc85a2048f1f818ecc790c80186ba.png"
         }
       ]
     },
