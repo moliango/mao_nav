@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1755073318276",
+          "name": "谷歌邮箱",
+          "url": "https://mail.google.com/",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755073260426_googleMail.png"
         }
       ]
     },
@@ -522,7 +529,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Naine",
-  "_fileSha": "d98c138ecb2edafb0642c0a38efd3c70be82e21a",
-  "search": "baidu"
+  "title": "Naine"
 }
