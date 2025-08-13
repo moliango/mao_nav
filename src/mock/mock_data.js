@@ -30,10 +30,74 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1755074526483",
+      "icon": "🛠️",
+      "name": "常用开发",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1755074640320",
+          "name": "Vant2",
+          "url": "https://vant-ui.github.io/vant/v2/#/zh-CN",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755074610111_vant.png"
+        },
+        {
+          "id": "site-1755074717705",
+          "name": "Element2",
+          "url": "https://element.eleme.cn/#/zh-CN",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755074709850_element.svg"
+        },
+        {
+          "id": "site-1755074754445",
+          "name": "ElmentPlus",
+          "url": "https://element-plus.sxtxhy.com/zh-CN/component/button.html",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755074709850_element.svg"
+        },
+        {
+          "id": "site-1755074864845",
+          "name": "MybatisPlus",
+          "url": "https://baomidou.com/introduce/",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755074857282_mybatisPlus.svg"
+        },
+        {
+          "id": "site-1755074933591",
+          "name": "SaToken",
+          "url": "https://sa-token.cc/doc.html#/",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755074913455_satoken.png"
+        },
+        {
+          "id": "site-1755074991269",
+          "name": "iconfont",
+          "url": "https://www.iconfont.cn/",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755074976808_7a3396f41bfee63400a64ac0716786b9.svg"
+        },
+        {
+          "id": "site-1755075042474",
+          "name": "码云",
+          "url": "https://gitee.com/",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755075026006_54b185cdaf578450d2fcba7ad75a571f.ico"
+        },
+        {
+          "id": "site-1755075139752",
+          "name": "Hutool",
+          "url": "https://doc.hutool.cn/pages/index/",
+          "description": "",
+          "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755075130141_2fddbb521033119e7e4eaa9c55c42067.ico"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "chatgpt",
@@ -76,7 +140,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -133,7 +197,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -183,7 +247,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "stackoverflow",
@@ -226,7 +290,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 4,
+      "order": 6,
       "sites": [
         {
           "id": "figma",
@@ -262,7 +326,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 7,
       "sites": [
         {
           "id": "binance",
@@ -326,7 +390,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -362,7 +426,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
@@ -412,7 +476,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 10,
       "sites": [
         {
           "id": "bilibili",
@@ -448,7 +512,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 11,
       "sites": [
         {
           "id": "notion",
@@ -484,7 +548,7 @@ export const mockData = {
       "id": "category-1755068731531",
       "icon": "📁",
       "name": "PT",
-      "order": 10,
+      "order": 12,
       "sites": [
         {
           "id": "site-1755068861511",
