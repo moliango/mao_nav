@@ -641,6 +641,26 @@ export const mockData = {
           "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755074239234_ilolicon.ico"
         }
       ]
+    },
+    {
+      "id": "category-1755144251959",
+      "icon": "👥",
+      "name": "自己创建",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1755144291648",
+          "name": "图床服务",
+          "url": "https://photos.264215.xyz/",
+          "description": "自己创建的图床服务"
+        },
+        {
+          "id": "site-1755144320979",
+          "name": "GPTLoad",
+          "url": "https://yhtsjlywxbwv.ap-southeast-1.clawcloudrun.com/",
+          "description": "自己搭建AI服务"
+        }
+      ]
     }
   ],
   "title": "Naine"
