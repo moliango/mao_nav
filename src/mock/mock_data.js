@@ -652,13 +652,71 @@ export const mockData = {
           "id": "site-1755144291648",
           "name": "图床服务",
           "url": "https://photos.264215.xyz/",
-          "description": "自己创建的图床服务"
+          "description": "自己创建的图床服务",
+          "icon": "https://photos.264215.xyz/file/1755144549927_6139010c42bc54e1f2e7b4d2198fddb0.png"
         },
         {
           "id": "site-1755144320979",
           "name": "GPTLoad",
           "url": "https://yhtsjlywxbwv.ap-southeast-1.clawcloudrun.com/",
-          "description": "自己搭建AI服务"
+          "description": "自己搭建AI服务",
+          "icon": "https://photos.264215.xyz/file/1755144597665_6b3e36805cd4b7b7422f978ecd49584d.png"
+        },
+        {
+          "id": "site-1755144711077",
+          "name": "qBittorrent",
+          "url": "http://nas.naine.ac.cn:18085/",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1755144675764_cdf19f4c08f752b44341c4411df7ea44.png"
+        },
+        {
+          "id": "site-1755144834242",
+          "name": "Transmission",
+          "url": "http://nas.naine.ac.cn:59871/transmission/web/",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1755144801351_253c762b1af1bd94a2ae52834ff8c3b1.png"
+        },
+        {
+          "id": "site-1755144875370",
+          "name": "MoviePolit",
+          "url": "http://nas.naine.ac.cn:50002",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1755144782159_c3311d635ad6df6dad91d012c67f6511.ico"
+        },
+        {
+          "id": "site-1755144905711",
+          "name": "Emby",
+          "url": "http://nas.naine.ac.cn:28096/web/index.html#!/home",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1755144783374_af2233a81a726e9500a0f4a293ff107f.png"
+        },
+        {
+          "id": "site-1755144936705",
+          "name": "IYUU",
+          "url": "http://nas.naine.ac.cn:18787/",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1755144790416_ca5866c0e8af71bb7380e87e0e56022b.ico"
+        },
+        {
+          "id": "site-1755144987611",
+          "name": "无界",
+          "url": "http://www.naine.ac.cn:17898/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1755145085731",
+          "name": "夸克转存",
+          "url": "http://nas.naine.ac.cn:35005/",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1755145043104_b3cce0ce370609084eaa5e5335c30b6e.ico"
+        },
+        {
+          "id": "site-1755145118172",
+          "name": "云盘盘",
+          "url": "https://www.yppan.com",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1755145043104_b3cce0ce370609084eaa5e5335c30b6e.ico"
         }
       ]
     }
