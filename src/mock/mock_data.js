@@ -717,11 +717,16 @@ export const mockData = {
           "url": "https://share.ilolicon.com/",
           "description": "",
           "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755074239234_ilolicon.ico"
+        },
+        {
+          "id": "site-1755583989012",
+          "name": "憨憨",
+          "url": "https://hhanclub.top",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1755583974362_icon-site.svg"
         }
       ]
     }
   ],
-  "title": "Naine",
-  "_fileSha": "edfdb3766253d4dade1c439d82be19998ac29add",
-  "search": "baidu"
+  "title": "Naine"
 }
