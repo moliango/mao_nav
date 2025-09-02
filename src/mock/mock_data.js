@@ -175,6 +175,13 @@ export const mockData = {
           "url": "https://www.yppan.com",
           "description": "",
           "icon": "https://photos.264215.xyz/file/1755145043104_b3cce0ce370609084eaa5e5335c30b6e.ico"
+        },
+        {
+          "id": "site-1756794526109",
+          "name": "lucky",
+          "url": "https://nas.naine.ac.cn:16601",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1756794459899_logo.svg"
         }
       ]
     },
