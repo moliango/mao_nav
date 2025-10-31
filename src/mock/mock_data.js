@@ -33,6 +33,12 @@ export const mockData = {
           "url": "https://mail.163.com/",
           "description": "",
           "icon": "https://mimg.127.net/logo/163logo.gif"
+        },
+        {
+          "id": "site-1761892691631",
+          "name": "KMS激活",
+          "url": "https://kms.cx",
+          "description": ""
         }
       ]
     },
