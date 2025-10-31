@@ -59,7 +59,7 @@ export const mockData = {
         {
           "id": "site-1755074754445",
           "name": "ElmentPlus",
-          "url": "https://element-plus.sxtxhy.com/zh-CN/component/button.html",
+          "url": "https://element-plus.org/zh-CN/",
           "description": "",
           "icon": "https://cloudflare-imgbed-8h4.pages.dev/file/1755074709850_element.svg"
         },
