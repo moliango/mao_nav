@@ -595,7 +595,7 @@ export const mockData = {
           "name": "KMS激活",
           "url": "https://kms.cx",
           "description": "Windows激活平台",
-          "icon": ""
+          "icon": "https://photos.264215.xyz/file/1761893254087_HapiGo_2025-10-31_14.46.37.png"
         }
       ]
     },
