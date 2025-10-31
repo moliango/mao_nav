@@ -33,13 +33,6 @@ export const mockData = {
           "url": "https://mail.163.com/",
           "description": "",
           "icon": "https://mimg.127.net/logo/163logo.gif"
-        },
-        {
-          "id": "site-1761892727737",
-          "name": "KMS激活",
-          "url": "https://kms.cx",
-          "description": "",
-          "icon": ""
         }
       ]
     },
@@ -596,6 +589,13 @@ export const mockData = {
           "url": "https://www.bejson.com/",
           "description": "工具大全",
           "icon": "/sitelogo/www.bejson.com.ico"
+        },
+        {
+          "id": "site-1761892727737",
+          "name": "KMS激活",
+          "url": "https://kms.cx",
+          "description": "Windows激活平台",
+          "icon": ""
         }
       ]
     },
