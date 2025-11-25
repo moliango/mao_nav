@@ -747,6 +747,42 @@ export const mockData = {
           "icon": "https://photos.264215.xyz/file/1755583974362_icon-site.svg"
         }
       ]
+    },
+    {
+      "id": "category-1764047260442",
+      "icon": "✈️",
+      "name": "白嫖机场",
+      "order": 14,
+      "sites": [
+        {
+          "id": "site-1764047316180",
+          "name": "漏网之鱼",
+          "url": "https://www.louwangzhiyu.org/",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1764047368698_fish.svg"
+        },
+        {
+          "id": "site-1764047460599",
+          "name": "水牛云",
+          "url": "https://bbs.nnpy.org/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1764047545334",
+          "name": "曲径通幽",
+          "url": "https://o0o00o.eu.org/",
+          "description": "",
+          "icon": "https://photos.264215.xyz/file/1764047504293_logo.svg"
+        },
+        {
+          "id": "site-1764047748853",
+          "name": "鸡场公益",
+          "url": "https://www.xn--mesx36n.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "Naine"
