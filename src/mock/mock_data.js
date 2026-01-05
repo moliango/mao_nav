@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://mail.163.com/",
           "description": "",
           "icon": "https://mimg.127.net/logo/163logo.gif"
+        },
+        {
+          "id": "site-1767583218001",
+          "name": "盘搜",
+          "url": "https://so.252035.xyz/",
+          "description": "",
+          "icon": "https://so.252035.xyz/favicon.ico"
         }
       ]
     },
