@@ -14,6 +14,13 @@ export const mockData = {
           "icon": "https://photos.264215.xyz/file/1767928588148_logo-big.462c9eed.png"
         },
         {
+          "id": "site-1767928783130",
+          "name": "劲群AI工具",
+          "url": "https://ai.jqultra.cn",
+          "description": "",
+          "icon": "https://oss-app-hz-cdn.chatdzq.com/default/1764876734206509058/default/20251222/resource2002923733033652226"
+        },
+        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
