@@ -11,7 +11,7 @@ export const mockData = {
           "name": "DHOS",
           "url": "http://dhos.jinquntech.com/",
           "description": "",
-          "icon": "http://dhos.jinquntech.com/static/img/logo-big.462c9eed.png"
+          "icon": "https://photos.264215.xyz/file/1767928588148_logo-big.462c9eed.png"
         },
         {
           "id": "linux-do",
