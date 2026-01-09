@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1767928484608",
+          "name": "DHOS",
+          "url": "http://dhos.jinquntech.com/",
+          "description": "",
+          "icon": "http://dhos.jinquntech.com/static/img/logo-big.462c9eed.png"
+        },
+        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
