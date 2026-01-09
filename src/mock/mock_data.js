@@ -772,7 +772,7 @@ export const mockData = {
     {
       "id": "category-1764047260442",
       "icon": "✈️",
-      "name": "白嫖机场",
+      "name": "🪜",
       "order": 14,
       "sites": [
         {
